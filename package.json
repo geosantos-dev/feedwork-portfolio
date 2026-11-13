@@ -1,0 +1,14 @@
+{
+  "name": "feedwork",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FeedWork - Carreira & Transparência (Node.js + SQLite, sem dependências)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
